@@ -21,7 +21,9 @@ header{
 .imagen img {
     width: 50px;
 }
-
+img{
+    width: 500px;
+}
 .site-header ul {
     display: flex;
     list-style: none;
@@ -43,6 +45,7 @@ header{
 
 .margen{
     margin-left: 0%;
+    
 }
 
 .mar-body{
